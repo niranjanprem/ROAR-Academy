@@ -2,7 +2,8 @@
 ## Example code: least_squares_penalty.py
 ## Author: Allen Y. Yang
 ##
-## (c) Copyright 2020. Intelligent Racing Inc. Not permitted for commercial use
+## (c) Copyright 2020-2024. Intelligent Racing Inc. Not permitted for commercial use
+print('as')
 
 import numpy as np
 import matplotlib.pyplot as plt
